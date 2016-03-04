@@ -1,4 +1,6 @@
 #Bookmark
+## algorithm
+[麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
 ## c
 ## cpp
 ## computer
@@ -14,4 +16,9 @@
 ## guide
 [龙轩导航](http://www.iloveyoulong.com/)
 ## python
-
+[Dive into Python](http://i.linuxtoy.org/docs/dip/toc/index.html)
+### Flask
+[Flask mega tutorial](http://www.pythondoc.com/flask-mega-tutorial/)
+## web
+[w3school](http://www.w3schools.com/) 
+[w3school cn](http://www.w3school.com.cn/)
