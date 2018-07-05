@@ -17,6 +17,7 @@
 [龙轩导航](http://www.iloveyoulong.com/)
 ## python
 [Dive into Python](http://i.linuxtoy.org/docs/dip/toc/index.html)
+[Python cookbook](https://github.com/yidao620c/python3-cookbook)
 ### Flask
 [Flask mega tutorial](http://www.pythondoc.com/flask-mega-tutorial/)
 ## web
